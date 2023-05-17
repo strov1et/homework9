@@ -1,0 +1,23 @@
+@media (max-width:898px)
+{ .text{width: 90%;}
+
+}
+@media (max-width:898px){
+    .logo{
+        font-size: 76px;
+    }
+    li{
+        font-size: 18px;
+    }
+}
+@media (max-width:681px)
+{ .text{
+    font-size: 24px;
+}
+
+}
+@media (max-width:500px){
+    nav{ display: none;}
+    .navdiv{display: block;}
+
+}
